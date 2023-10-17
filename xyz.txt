@@ -1,4 +1,3 @@
-Hello world
-I lives in lahore
+Hello prac1
 
 
