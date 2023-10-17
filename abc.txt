@@ -1,1 +1,4 @@
-hello devsinc
+hello pakistan
+o create a sub-bullet, press Tab after typing your main bullet point. This will create an indented bullet point, indicating it's a sub-point.
+Type your sub-bullet text and press Enter to add more sub-bullets at the same level.
+To go back to a higher level (main bullet point), press Shift + Tab.
